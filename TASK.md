@@ -38,17 +38,3 @@ The current implementation is incredibly slow and contains structural, algorithm
 - **Most Important**: The depth of hardware and software understanding demonstrated in the `REPORT.md`.
 
 Good luck!
-
-
-
-
-
-
-
-[r g b][r g b][r g b][r g b][r g b][r g b][r g b][r g b][r g b][r g b][r g b]
-
-t1 -> r (n1 - n2)
-t2 -> g (n2 - n3)
-t2 -> b (n3 - n4)
-
-[r r r r r r r r r r r r]
